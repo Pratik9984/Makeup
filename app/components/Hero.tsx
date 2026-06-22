@@ -65,6 +65,7 @@ export default function Hero({ content }: { content?: any }) {
                 color: "var(--color-charcoal)",
               }}
             >
+              <span className="sr-only">Rupali Shinde - Best Beauty Parlor &amp; Bridal Makeup Artist in Ahilyanagar, Maharashtra</span>
               {title}
               <br />
               <span
